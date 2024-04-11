@@ -1,1 +1,1 @@
-*** Its a social media app ***
+**Its a social media app**
